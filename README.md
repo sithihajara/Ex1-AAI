@@ -5,11 +5,11 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
-    To create a bayesian Network for the given dataset in Python
+To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 
-Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
-Step 2:Set pandas options to display more columns<br/>
+##Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController
+Step 2:Set pandas options to display more columns
 Step 3:Read in weather data from a CSV file using pandas<br/>
 Step 4:Remove records where the target variable RainTomorrow has missing values<br/>
 Step 5:Fill in missing values in other columns with the column mean<br/>
