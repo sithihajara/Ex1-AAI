@@ -7,6 +7,7 @@
 ## Aim :
 To create a bayesian Network for the given dataset in Python
 ## Algorithm:
+```
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController
 Step 2:Set pandas options to display more columns
 Step 3:Read in weather data from a CSV file using pandas
@@ -21,6 +22,7 @@ Step 11:Set node positions for the graph
 Step 12:Set options for the graph appearance
 Step 13:Generate the graph using networkx
 Step 14:Update margins and display the graph using matplotlib.pyplot
+```
 ## Program
 ```
 # import required libraries
